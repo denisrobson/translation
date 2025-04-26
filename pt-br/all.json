@@ -270,11 +270,11 @@
   "SETTINGS": {
     "ACCOUNT": {
       "ADVANCED": {
-        "KEYWORDS": "CONFIGURAÇÕES.CONTA.AVANÇADO.PALAVRAS-CHAVE"
+        "KEYWORDS": "Suporte Reconectar Pesquisa Corrigir Erro"
       },
       "ADVANCED_TITLE": "Configurações Avançadas",
       "AUTHENTICATION": {
-        "KEYWORDS": "Sair Sair Método de Login do Google Adicionar Desconectar Entrar Cadastrar-se"
+        "KEYWORDS": "CONFIGURAÇÕES.CONTA.AUTENTICAÇÃO.PALAVRAS-CHAVE"
       },
       "AUTHENTICATION_TITLE": "Autenticação",
       "CACHING": {
