@@ -332,6 +332,8 @@
     },
     "EARN_CREDIT": {
       "APPLY_CREDIT": "Utilize seu crédito",
+      "BALANCE_IN_MONTHS_SG": "{{numMonths}} mês",
+      "BALANCE_IN_MONTHS_PL": "{{numMonths}} meses",
       "COPIED": "Copiado!",
       "COPYLINK": "Copiar Link",
       "CREATE_ACCOUNT": "Crie uma conta para convidar amigos",
@@ -350,6 +352,7 @@
       "INVITE_TEXT": "Convide amigos e ganhe créditos",
       "KEYWORDS": "convidar amigos ganhar créditos plano mudar assinatura ganhar créditos grátis remnote enviar tweet email escolher plano aprendizado vitalício pro recursos detalhamento preços opções",
       "NOT_CONFIRMED_EMAIL": "(não confirmou e-mail)",
+      "REMAINING_MONTHS": "Meses restantes",
       "SEND_INVITE": "Enviar convite",
       "SHARE_LINK": "Compartilhar link de convite",
       "TITLE": "Ganhe Créditos",
@@ -357,7 +360,8 @@
       "TOAST_SUBSCRIBE": "Seus créditos serão aplicados automaticamente quando você assinar o RemNote Pro. Escolha um plano abaixo para começar!",
       "TOTAL_MONTHS_EARNED": "Total de Meses Pro Adquiridos",
       "VERIFY_EMAIL": "Para convidar alguém, primeiro verifique seu e-mail.",
-      "CREDIT_BALANCE": "Balanço de Creditos",
+      "SUBSCRIBE_NOTICE": "<div><br />Faça upgrade para o plano Pro para começar a usar seu saldo! Você não será cobrado até que o saldo do aplicativo esteja esgotado.</div>",
+      "CREDIT_BALANCE": "Balanço de Créditos",
       "CREDIT_BALANCE_TEXT": "Você tem<bold> {{userCredit}}</bold> de créditos restantes e ganhou<bold> {{userCreditEarned}}</bold> de créditos no total. {{months}} mês ou meses restantes de RemNote Pro gratuitamente.<div><br /> Assine o Pro para começar a usar seu crédito! Você não será cobrado até que seu crédito acabe.</div>"
     },
     "EDITOR": {
@@ -569,7 +573,7 @@
       },
       "SIMPLIFIED_UI": {
         "LABEL": "Simplifique a interface e oculte recursos avançados.",
-        "TITLE": "IU Simplificada"
+        "TITLE": "Interface de Usuário Simplificada"
       },
       "ONBOARDING_TIPS": {
         "KEYWORDS": "dicas ajuda suporte aprender tutorial",
@@ -577,7 +581,8 @@
         "TITLE": "Dicas de Integração"
       },
       "ONBOARDING_TIPS_FEATURES": {
-        "TITLE": "Dicas de Onboarding",
+        "LABEL": "Dicas e Recursos de Boas-Vindas",
+        "TITLE": "Dicas e Recursos de Boas-Vindas",
         "KEYWORDS": "CONFIGURAÇÕES.INTERFACE_GLOBAL.DICAS_DE_INTEGRAÇÃO_RECURSOS.PALAVRAS-CHAVE"
       }
     },
@@ -673,6 +678,10 @@
       "SORT_SIDEBAR": {
         "KEYWORDS": "Organizar barras-laterais ordernar de-A-a-Z",
         "TITLE": "Ordenar Barra Lateral"
+      },
+      "COMMUNITY_TAB": {
+        "LABEL": "Comunidade",
+        "TITLE": "Comunidade"
       }
     }
   },
@@ -692,6 +701,7 @@
   "SOURCES": {
     "LINK_SOURCE": {
       "ENTER_URL": "Inserir URL",
+      "EMBED_LINK": "Incorporar link",
       "INVALID_URL": "URL inválido",
       "LABEL": "Link da Fonte",
       "LINK": "Link",
@@ -710,6 +720,7 @@
       "PDF_WITH_COUNT_other": "{{count, number}} PDFs",
       "SELECT_FILES": "Selecionar Arquivos",
       "SELECT_FILES_TO_UPLOAD": "Selecione arquivos para fazer upload",
+      "UPLOAD": "Carregar",
       "UPLOADING": "Enviando..."
     },
     "WIKIMEDIA_COMMONS": {
@@ -729,7 +740,8 @@
       "FILTER": {
         "ADD_ADVANCED_FILTER": "Addicionar Filtro Avançado",
         "FILTER_TITLE": "Filtrar",
-        "NO_PROPERTIES_AVAILABLE": "Nenhuma propriedade disponível; Adicione uma Nova!"
+        "NO_PROPERTIES_AVAILABLE": "Nenhuma propriedade disponível; Adicione uma Nova!",
+        "NO_FILTER": "Nenhum filtro"
       },
       "SORT": {
         "SORT_TITLE": "Ordenar"
@@ -794,14 +806,14 @@
     "INSERT_PROPERTIES": "Inserir Propriedades",
     "PINNED_TAGS": "Tags Fixadas",
     "SEARCH_PLACEHOLDER": "Procurar uma tag existente para adiciona-la",
-    "TAG": "Tag",
+    "TAG": "Etiqueta",
     "TAG_WITH_COUNT_one": "{{count, number}} Tag",
     "TAG_WITH_COUNT_other": "{{count, number}} Tags",
-    "YOUR_TAGS": "Suas Tags"
+    "YOUR_TAGS": "Suas Etiquetas"
   },
   "TEMPLATES": {
     "ADD_NEW_PROPERTY": "Adicionar Propriedade Nova",
-    "AUTO_APPLY": "Autoaplicar",
+    "AUTO_APPLY": "Auto aplicar",
     "AUTO_APPLY_HELP_TEXT": "Este modelo será automaticamente aplicado a todas as linhas de sua tabela, ou em todas os Rem marcados com este modelo.",
     "CREATE_TEMPLATE": "Criar Modelo",
     "NEW_TEMPLATE": "Modelo Novo",
@@ -820,6 +832,18 @@
     "TEMPLATE_other": "Modelos",
     "TURN_OFF_AUTO_APPLY": "Desativar Aplicar Automaticamente",
     "VIEW_CONFIGURATION": "Configurar Tag",
-    "HIDE_CONFIGURATION": "Ocultar Configurações"
+    "HIDE_CONFIGURATION": "Ocultar Configurações",
+    "ADD_PROPERTY": "Adicionar propriedade",
+    "NEW_PROPERTY": "Nova propriedade"
+  },
+  "COMMUNITY_NOTIFICATIONS": {
+    "DOCUMENT_ADDED_TO_GROUP": {
+      "BODY": "Documento adicionado ao grupo"
+    },
+    "INVITE": {
+      "ACCEPT": "Aceitar",
+      "BODY": "Convidar",
+      "REJECT": "Rejeitar"
+    }
   }
 }
