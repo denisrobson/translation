@@ -577,7 +577,8 @@
         "TITLE": "Dicas de Integração"
       },
       "ONBOARDING_TIPS_FEATURES": {
-        "TITLE": "Dicas de Onboarding"
+        "TITLE": "Dicas de Onboarding",
+        "KEYWORDS": "CONFIGURAÇÕES.INTERFACE_GLOBAL.DICAS_DE_INTEGRAÇÃO_RECURSOS.PALAVRAS-CHAVE"
       }
     },
     "KEYBOARD_SHORTCUTS": {
