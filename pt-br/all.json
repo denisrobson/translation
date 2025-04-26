@@ -138,6 +138,18 @@
   "ONBOARDING": {
     "SIDEBAR": {
       "INITIAL": {
+        "0": {
+          "TITLE": "Título da primeira etapa"
+        },
+        "1": {
+          "TITLE": "Título da segunda etapa"
+        },
+        "2": {
+          "TITLE": "Título da terceira etapa"
+        },
+        "3": {
+          "TITLE": "Título da quarta etapa"
+        },
         "PAGE_0": {
           "TITLE": "Criar uma pasta"
         },
@@ -362,7 +374,8 @@
       "VERIFY_EMAIL": "Para convidar alguém, primeiro verifique seu e-mail.",
       "SUBSCRIBE_NOTICE": "<div><br />Faça upgrade para o plano Pro para começar a usar seu saldo! Você não será cobrado até que o saldo do aplicativo esteja esgotado.</div>",
       "CREDIT_BALANCE": "Balanço de Créditos",
-      "CREDIT_BALANCE_TEXT": "Você tem<bold> {{userCredit}}</bold> de créditos restantes e ganhou<bold> {{userCreditEarned}}</bold> de créditos no total. {{months}} mês ou meses restantes de RemNote Pro gratuitamente.<div><br /> Assine o Pro para começar a usar seu crédito! Você não será cobrado até que seu crédito acabe.</div>"
+      "CREDIT_BALANCE_TEXT": "Você tem<bold> {{userCredit}}</bold> de créditos restantes e ganhou<bold> {{userCreditEarned}}</bold> de créditos no total. {{months}} mês ou meses restantes de RemNote Pro gratuitamente.<div><br /> Assine o Pro para começar a usar seu crédito! Você não será cobrado até que seu crédito acabe.</div>",
+      "BALANCE_IN_MONTHS": "{{numMonths}} meses"
     },
     "EDITOR": {
       "DATES_AND_TIMES": {
@@ -435,6 +448,10 @@
       "SMOOTHLY_ANIMATE_THE_EDITOR": {
         "LABEL": "Animações sutis ao adicionar e deleter Rems no editor.",
         "TITLE": "Animar Sutilmente o Editor"
+      },
+      "ENTER_TO_OUTDENT": {
+        "LABEL": "Usar Enter para desindentar",
+        "TITLE": "Enter para desindentar"
       }
     },
     "FLASHCARDS": {
@@ -583,7 +600,7 @@
       "ONBOARDING_TIPS_FEATURES": {
         "LABEL": "Dicas e Recursos de Boas-Vindas",
         "TITLE": "Dicas e Recursos de Boas-Vindas",
-        "KEYWORDS": "CONFIGURAÇÕES.INTERFACE_GLOBAL.DICAS_DE_INTEGRAÇÃO_RECURSOS.PALAVRAS-CHAVE"
+        "KEYWORDS": "Palavras-chave para dicas e recursos de integração"
       }
     },
     "KEYBOARD_SHORTCUTS": {
@@ -844,6 +861,12 @@
       "ACCEPT": "Aceitar",
       "BODY": "Convidar",
       "REJECT": "Rejeitar"
+    },
+    "NEW_FOLLOWER": {
+      "BODY": "Novo seguidor"
+    },
+    "NEW_LIKE": {
+      "BODY": "Nova curtida"
     }
   }
 }
