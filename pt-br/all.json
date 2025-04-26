@@ -248,7 +248,7 @@
       },
       "TABLE_TAG": {
         "DESCRIPTION": "Crie uma etiqueta para usar com tabelas e modelos.",
-        "TITLE": "Tag & Tabela"
+        "TITLE": "Etiqueta & Tabela"
       },
       "TODAYS_DOCUMENT": {
         "DESCRIPTION": "Os Documentos Diários são perfeitos para anotações diárias, listas de tarefas e muito mais.",
@@ -270,7 +270,7 @@
   "SETTINGS": {
     "ACCOUNT": {
       "ADVANCED": {
-        "KEYWORDS": "Suporte Religar Buscar Consertar Bug"
+        "KEYWORDS": "CONFIGURAÇÕES.CONTA.AVANÇADO.PALAVRAS-CHAVE"
       },
       "ADVANCED_TITLE": "Configurações Avançadas",
       "AUTHENTICATION": {
