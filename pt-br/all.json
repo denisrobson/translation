@@ -278,7 +278,7 @@
       },
       "AUTHENTICATION_TITLE": "Autenticação",
       "CACHING": {
-        "DESCRIPTION": "Armazene imagens em cache quando elas forem carregadas para que possam ser visualizadas off-line.",
+        "DESCRIPTION": "Armazene imagens em cache quando elas forem carregadas para que possam ser visualizadas desconectado.",
         "NUMBER_DESCRIPTION": "Defina o número máximo de imagens a serem armazenadas em cache. Quando o limite for atingido, as imagens mais antigas serão removidas do cache.",
         "NUMBER_TITLE": "Máximo de imagens em cache",
         "TITLE": "Armazenando em cache",
